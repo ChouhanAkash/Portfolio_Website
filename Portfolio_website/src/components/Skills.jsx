@@ -15,6 +15,8 @@ const Skills = () => {
             <SkillCard name="CSS" img="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
             <SkillCard name="JavaScript" img="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
             <SkillCard name="TypeScript" img="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
+            <SkillCard name="Node.js" img="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+
           </div>
         </div>
 
@@ -25,6 +27,9 @@ const Skills = () => {
             <SkillCard name="React" img="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
             <SkillCard name="React Native" img="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
             <SkillCard name="Bootstrap" img="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" />
+            <SkillCard name="Express.js" img="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+              <SkillCard name="Tailwind CSS" img="https://cdn.iconscout.com/icon/free/png-512/free-tailwindcss-plain-wordmark-4627702-3817207.png" />
+
           </div>
         </div>
 
@@ -36,6 +41,7 @@ const Skills = () => {
             <SkillCard name="GitHub" img="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
             <SkillCard name="VS Code" img="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
             <SkillCard name="Figma" img="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
+           <SkillCard name="Android Studio" img="https://upload.wikimedia.org/wikipedia/commons/9/94/Android_Studio_Logo_2024.svg" />
           </div>
         </div>
 
@@ -44,6 +50,8 @@ const Skills = () => {
           <h3>Database</h3>
           <div className="skills-list">
             <SkillCard name="Firebase" img="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" />
+            <SkillCard name="MongoDB" img="https://techicons.dev/icons/mongodb" />
+
           </div>
         </div>
       </div>

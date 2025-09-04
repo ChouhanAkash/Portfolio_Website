@@ -3,7 +3,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import myProfile from '../assets/myProfile.png';
 import './Home.css';
 import { Link } from 'react-scroll';
-import akash_chouhan_resume from '../assets/akash_chouhan_resume.pdf'
+import Akash_FSD from '../assets/Akash_FSD'
 import { FaDownload ,FaEnvelope} from 'react-icons/fa';
 
 const Home = () => {
@@ -27,7 +27,7 @@ const Home = () => {
 
           {/* CTA Buttons */}
           <div className="cta-buttons">
-            <a href={akash_chouhan_resume} download className="btn">Download Resume  <FaDownload/></a>
+            <a href={Akash_FSD} download className="btn">Download Resume  <FaDownload/></a>
             <Link
     to="contact"
     smooth={true}

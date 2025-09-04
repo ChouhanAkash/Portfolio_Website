@@ -2,7 +2,7 @@
   {
     "title": "Medium Blog Website Clone",
     "description": "Explore my tech journey, insights, and tutorials through blogs on my Medium page.",
-    "githubLink": "https://github.com/Prajakta811/WEB_017-Code-Surgeons.git",
+    "githubLink": "https://github.com/ChouhanAkash/Medium_Clone.git",
     "deploymentLink": "https://fabulous-begonia-c98fec.netlify.app/",
     "techStack": ["HTML5", "CSS3", "JavaScript", "Firebase"],
     "duration": "2 weeks",
@@ -15,10 +15,10 @@
   {
     "title": "Modesens Ecomerce App",
     "description": "A full-fledged e-commerce application with product listings, cart, and checkout functionality.",
-    "githubLink": "https://github.com/username/ecommerce-app",
-    "deploymentLink": "https://ecommerce.example.com",
-    "techStack": ["React", "Redux", "Firebase", "python"],
-    "duration": "1 month",
+    "githubLink": "https://github.com/ChouhanAkash/Modesens_Ecom.git",
+    "deploymentLink": "https://modesensclone.netlify.app/",
+    "techStack": ["HTML5","CSS3","JavaScript","Firebase"],
+    "duration": "2 weaks",
     "coverImages": [
       "https://via.placeholder.com/400x200?text=E-Commerce+1",
       "https://via.placeholder.com/400x200?text=E-Commerce+2",
